@@ -25,7 +25,7 @@ Clear attribution to the original creator (Cheng-Ruei Lee) must be retained in a
 ---
 
 ## Commercial Licensing
-Commercial use, redistribution, or deployment requires explicit written permission. Inquiries may be directed to: qqsmallfrog@gmail.com
+Commercial use, redistribution, or deployment requires explicit written permission. Inquiries may be directed to: chengrueilee@ntu.edu.tw
 
 ---
 
