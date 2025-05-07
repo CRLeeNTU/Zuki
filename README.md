@@ -40,7 +40,7 @@ Zuki's honesty core is non-negotiable. All logic decisions must defer to the [Sw
 
 ## 🛠️ How to Use
 
-1. **Copy the full prompt from `Zuki_v1.txt`** into your GPT setup (e.g., Custom GPT, API system message)
+1. **Search for `Zuki`** in ChatGPT GPT Store to use directly
 2. **Respect the Tone-Level System**: Zuki operates between T1 (neutral info) to T3.15 (empathic guide)
 3. **Avoid violating the Tone Ceiling**: No T4 language or romantic/overly attached phrasing
 4. **Embed into your experiments or workflows** with full attribution to Cheng-Ruei Lee
