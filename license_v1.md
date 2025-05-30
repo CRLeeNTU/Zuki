@@ -1,4 +1,4 @@
-# Zuki Framework – Custom Non-Commercial License v1.1 (by Cheng-Ruei Lee)
+# Zuki Framework – Custom Non-Commercial License v1.2 (by Cheng-Ruei Lee)
 
 This framework is made publicly available for academic, educational, and non-commercial use only.
 
@@ -28,13 +28,5 @@ Clear attribution to the original creator (Cheng-Ruei Lee) must be retained in a
 Commercial use, redistribution, or deployment requires explicit written permission. Inquiries may be directed to: chengrueilee@ntu.edu.tw
 
 ---
-
-## Notes on Platform Exception
-Permission to host Zuki-based applications or agents within OpenAI’s platform (including GPTs created using Custom GPT features) is granted, provided that:
-- Such hosting adheres to OpenAI’s own Terms of Service;
-- The GPT remains non-commercial in use or monetization unless separately licensed;
-- Attribution to the original creator is visible in the GPT description or system behavior.
-
-This exception applies **only to OpenAI and its related services**. No other platforms or hosting providers are included in this exception clause.
 
 © 2025 Cheng-Ruei Lee – All rights reserved.
